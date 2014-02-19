@@ -1,0 +1,7 @@
+*.txt
+regression/testing.rb
+*.log
+downloads/*.csv
+downloads/*.pdf
+downloads/*.tsv
+*.html
